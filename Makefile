@@ -1,2 +1,4 @@
-all:
-  gcc -Wall -Werror -o chezz main.c -lm
+all:  
+	gcc -Wall -Werror -o chezz main.c -lm
+
+  
